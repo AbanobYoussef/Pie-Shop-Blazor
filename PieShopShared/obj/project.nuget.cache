@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "db57Xwx44gdEbrMwy+kgnmovbL5XlaD93XWreY2VNLh+ECUmtirEfyPmCNtpqtwT7XnJ25/2/M7mpj626seuaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abanob\\source\\repos\\PieShop\\PieShopShared\\PieShop.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abanob\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abanob\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
