@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "BethanysPieShopHRM.App.dll": "sha256-sTnCjUYtt2rYySVMQaVTurGxBAhIMd0GeeK6RJdeoAA=",
+      "BethanysPieShopHRM.App.dll": "sha256-OTbAt1q2UsIxUcHeiJXkM2Hz\/oxiMMAaRHTYZiYL4ac=",
       "System.Text.Json.dll": "sha256-pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -60,6 +60,8 @@
       "System.ComponentModel.Annotations.dll": "sha256-tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=",
       "System.ComponentModel.DataAnnotations.dll": "sha256-LIfCYwg+PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=",
+      "BethanysPieShopHRM.ComponentsLibrary.dll": "sha256-gxWSYljbVamMROtGZh3OURaK1d8ZWRS5cOZ9x5NFTDY=",
+      "Microsoft.JSInterop.dll": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
       "BethanysPieShopHRM.Shared.dll": "sha256-pvWbt7WaE5sayfMESMYKwn3EcO0ALq9VQfOjUW7mwno=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-sifIvl02zqfSiv67ZRAsSa+NCvhMgTGrIUNuK8LmCNM=",
       "Microsoft.Extensions.Configuration.dll": "sha256-iUTfpj7A29tIp2gl2fLM+w1MwyI8XMmUV8gFe+mJBZI=",
@@ -69,11 +71,11 @@
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-ROy00p56saSEbyOGgwnu8op++\/jeRfR6GYOOLp+fVw4=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=",
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-X3n9B0GKwWD1R7H+6ydrvoazqRQrQRjS+NH5VG6VJNY=",
-      "Microsoft.JSInterop.dll": "sha256-K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "BethanysPieShopHRM.App.pdb": "sha256-JTmyGcus1zGvgzJvlJJj9r4KUV0BON60RbmkcTfZ++8=",
+      "BethanysPieShopHRM.App.pdb": "sha256-k38jTvgu2bNZyhb69hothy2McgbzDAc244pX9SxLS7E=",
+      "BethanysPieShopHRM.ComponentsLibrary.pdb": "sha256-4A3jY9+lYA8KHGdfQTi91SiIc7joCas7IADzuLZndLY=",
       "BethanysPieShopHRM.Shared.pdb": "sha256-hN1LbdUJlZ5L4Q0Ek6qcZCM3E3qSRFYFSkNCc79HAWU="
     },
     "runtime": {

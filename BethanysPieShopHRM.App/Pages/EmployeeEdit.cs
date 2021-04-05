@@ -1,4 +1,5 @@
-﻿using BethanysPieShopHRM.App.Services;
+﻿using BethanysPieShopHRM.App.Components;
+using BethanysPieShopHRM.App.Services;
 using BethanysPieShopHRM.Shared;
 using Microsoft.AspNetCore.Components;
 using System;
@@ -16,6 +17,8 @@ namespace BethanysPieShopHRM.App.Pages
         public ICountryDataService CountryDataService { get; set; }
         [Inject]
         public IJobCategoryDataService JobCategoryDataService { get; set; }
+
+
 
         [Parameter]
         public string EmployeeId { get; set; }

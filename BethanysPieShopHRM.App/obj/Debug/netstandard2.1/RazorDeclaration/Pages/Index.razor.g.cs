@@ -76,6 +76,27 @@ using BethanysPieShopHRM.App.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\_Imports.razor"
+using BethanysPieShopHRM.App.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 13 "C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\_Imports.razor"
+using BethanysPieShopHRM.ComponentsLibrary;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 14 "C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\_Imports.razor"
+using BethanysPieShopHRM.ComponentsLibrary.Map;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {

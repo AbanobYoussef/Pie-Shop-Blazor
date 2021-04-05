@@ -72,3 +72,5 @@ C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Api\bin\Debug\netcoreapp
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Api\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.App.pdb
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Http.dll
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Api\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Api\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.ComponentsLibrary.dll
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Api\bin\Debug\netcoreapp3.0\BethanysPieShopHRM.ComponentsLibrary.pdb
