@@ -1,4 +1,6 @@
-﻿using BethanysPieShopHRM.Shared;
+﻿using BethanysPieShopHRM.App.Services;
+using BethanysPieShopHRM.Shared;
+using Microsoft.AspNetCore.Components;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +21,8 @@ namespace BethanysPieShopHRM.App.Pages
         }
 
         public IEnumerable<Employee> Employees { get; set; }
+        [Inject]
+        public IEmployeeDataService EmployeeDataService { get; set; }
 
         private List<Country> Countries { get; set; }
 
