@@ -131,19 +131,13 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
+            "Microsoft.AspNetCore.Components": {
               "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[3.1.4, )"
             },
-            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[3.2.0, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[3.1.4, )"
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",

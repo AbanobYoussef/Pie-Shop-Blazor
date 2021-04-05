@@ -1,12 +1,12 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\OTbAt1q2UsIxUcHeiJXkM2Hz-oxiMMAaRHTYZiYL4ac=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\IoMXUhmn1uENXGWcESItTKyk8jOlz56FNQwWVkxm3OI=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BethanysPieShopHRM.App.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BethanysPieShopHRM.App.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.br"
     },
@@ -146,7 +146,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Numerics.Vectors.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.br"
     },
@@ -246,12 +246,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\v4LhihP26fP-dVajppSCZIrCVbkiALCJgAisyG2cmJQ=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\P1OQnoHnOHvc97vE2VWr6zImvNN0VhdUxnH1ccLhuH0=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Web.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Web.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\INh_HEyd1tejV3ZiCSKTS1pM9lhRRmWPDPOhWVHgiPY=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.Forms.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.Forms.dll.br"
     },
@@ -266,7 +266,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\4AR-s5kiD6WZfdsfrOTAC7K5ZH8nISQUl5_ibhhhGxM=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.br"
     },
@@ -276,7 +276,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BethanysPieShopHRM.ComponentsLibrary.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\21Eo58gZGe1h56KPVgJXZnNVIdVd6CjTrjnPM3RFMGI=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.br"
     },
@@ -366,7 +366,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\GBFKyEc3b6RmDkUsIFCADvUq9Y0IdpFz_PWt2TjuhgM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YxBa92YMDWfWetpD5r0VG3yY9fnxOQHb3LF0S_Vgah8=.hash",
       "Source": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     }
