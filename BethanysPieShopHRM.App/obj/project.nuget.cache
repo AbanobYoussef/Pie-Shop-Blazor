@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+uu3fKVWhdDMDk7RV2wIHB0r8NwGhgmJovdukWlskUxkBbzAi/gy0cqGB1bYeHgTw0zCph9pnZ6Y5Z5d+dhn0Q==",
+  "dgSpecHash": "C6n2/GiMzUbhnuZ7Aazwhc/O6LYYyYn4W2PJ6ntK5m97ARqbdqGhmBi8pC5N+EUCbbnmUEOIR6SflJ57KYjbNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\Abanob\\.nuget\\packages\\microsoft.jsinterop\\3.1.3\\microsoft.jsinterop.3.1.3.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.0\\microsoft.jsinterop.webassembly.3.2.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\Abanob\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Abanob\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",

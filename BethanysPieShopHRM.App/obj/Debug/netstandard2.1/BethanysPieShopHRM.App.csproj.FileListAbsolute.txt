@@ -196,7 +196,6 @@ C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandar
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
-C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\lpTGU1vp06_8IKblNStwXgNtfqLFF-AJfQXIFEUlmEE=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
@@ -213,7 +212,6 @@ C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandar
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\NI7fPkuD0UJUTcZuM1HX4Z5y4DxbSOlmMP8ZSRNsUqg=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -424,9 +422,13 @@ C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandar
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.dll.br
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Http.dll
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Http.dll.gz
-C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\FkKcDZ8diaJAg92cLh2HFmG6w_Fyv_EuiYCy-yqgtUc=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\yUMvQwAOesiz_yHxElu-ObK7gQIqcSR7vktOISpntaA=.hash
-C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\vv1N3kI714GAci2gwKmEqsHlb1Y4Ll5QEB9rZLe4Ex4=.hash
-C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\pYssznqy60MQtm0EZ6ztDrOzCUAv6fWJpaB0gLBvbIc=.hash
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Http.dll.gz
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Http.dll.br
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\RazorDeclaration\Pages\EmployeeEdit.razor.g.cs
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\Razor\Pages\EmployeeEdit.razor.g.cs
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\sTnCjUYtt2rYySVMQaVTurGxBAhIMd0GeeK6RJdeoAA=.hash
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\pvWbt7WaE5sayfMESMYKwn3EcO0ALq9VQfOjUW7mwno=.hash
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\JTmyGcus1zGvgzJvlJJj9r4KUV0BON60RbmkcTfZ__8=.hash
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\hN1LbdUJlZ5L4Q0Ek6qcZCM3E3qSRFYFSkNCc79HAWU=.hash
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.App\obj\Debug\netstandard2.1\integrity\_xqK1IXxOVHU3Pq-mSDydGiIqPNouIP-chUfox417gU=.hash

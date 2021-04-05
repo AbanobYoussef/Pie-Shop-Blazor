@@ -4,6 +4,6 @@ C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\bin\Debug\netstan
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.csprojAssemblyReference.cache
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
-C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.dll
 C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.pdb
+C:\Users\Abanob\source\repos\PieShop\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache

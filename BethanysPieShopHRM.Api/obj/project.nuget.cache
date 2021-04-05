@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y97qloX2OCuxFp2PYPcj7wJUsjhpflzId5K3/cEX2eU2NTSSKXD7NINqhgf54xhooh1nr3gbM5iB4fwmCqfVWw==",
+  "dgSpecHash": "qYivcU6PdAd+s35nmYJS3eXIl5RZ+oRpeB4OuEBEKBuVgW+O7t55OTRlSwnac2+NXLiJ1UII2TIio4juQJsmCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Abanob\\source\\repos\\PieShop\\BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj",
   "expectedPackageFiles": [
@@ -55,7 +55,7 @@
     "C:\\Users\\Abanob\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\Abanob\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Abanob\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.componentmodel.primitives\\4.3.0\\system.componentmodel.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
     "C:\\Users\\Abanob\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
